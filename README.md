@@ -1,3 +1,5 @@
+<p align="center"><img src="assets/banner.svg" alt="Amit Brilant · Data Scientist · Computer Vision & Deep Learning for Medical Imaging" width="100%"></p>
+
 ## Hi there 👋 I'm Amit
 
 Data scientist working on **computer vision and deep learning for medical imaging**, clinical data,
@@ -41,6 +43,3 @@ and LLM applications. M.Sc. in Electrical & Computer Engineering, Ben-Gurion Uni
 
 <!-- skills:end -->
 
-## 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=Amit-Brilant&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=Amit-Brilant&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
