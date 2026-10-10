@@ -1,4 +1,4 @@
-<p align="center"><img src="assets/banner.svg" alt="Amit Brilant · Data Scientist · Computer Vision & Deep Learning for Medical Imaging" width="100%"></p>
+<p align="center"><img src="assets/banner.svg" alt="Amit Brilant · Data Scientist · Computer Vision & Deep Learning" width="100%"></p>
 
 ## Hi there 👋 I'm Amit
 
